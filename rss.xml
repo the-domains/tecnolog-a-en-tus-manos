@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tecnología en tus Manos]]></title>
+        <description><![CDATA[Tecnología en tus Manos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 16:09:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mediante la construcción de aparatos médicos simples, los beneficiarios conocerán y aprenderán sobre la situación actual delos servicios de salud en el país, principalmente en el ámbito tecnológico. Con este proyecto se motivará a los jóvenes a que inicien una carrera profesional relacionada al sector salud, y que con los conocimientos adquiridos puedan crear un cambio trascendental y benéfico en la comunidad de la que son miembros.]]></title>
+            <description><![CDATA[<article><h1>Mediante la construcción de aparatos médicos simples, los beneficiarios conocerán y aprenderán sobre la situación actual delos servicios de salud en el país, principalmente en el ámbito tecnológico. Con este proyecto se motivará a los jóvenes a que inicien una carrera profesional relacionada al sector salud, y que con los conocimientos adquiridos puedan crear un cambio trascendental y benéfico en la comunidad de la que son miembros.</h1><p>Video de Primer Semestre de Trabajo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbee68d420ead8c7a194c5960fe5e41ebf963e40.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=77SWjVvRapQ</link>
+            <guid isPermaLink="false">c478b159-6cf2-4a37-88ae-74e32c817576</guid>
+            <pubDate>Wed, 02 Mar 2016 16:08:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
