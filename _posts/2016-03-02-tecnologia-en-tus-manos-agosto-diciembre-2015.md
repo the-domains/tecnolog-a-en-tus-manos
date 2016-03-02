@@ -16,9 +16,9 @@ keywords:
   - '2015'
   - werevertumorro
   - nfc
-description: Uploaded by Tecnología En tus Manos on 2015-11-10.
-datePublished: '2016-03-02T16:12:26.622Z'
-dateModified: '2016-03-02T16:12:21.559Z'
+description: ''
+datePublished: '2016-03-02T16:18:52.532Z'
+dateModified: '2016-03-02T16:17:40.804Z'
 author:
   - name: Tecnología En tus Manos
     url: 'https://www.youtube.com/channel/UC8PZ932vCXNat45SrG6zXGg'
@@ -61,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: 'Tecnología En Tus Manos: Agosto-Diciembre 2015'
+title: Video Primer Semestre
+sourcePath: _posts/2016-03-02-tecnologia-en-tus-manos-agosto-diciembre-2015.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-03-02-tecnologia-en-tus-manos-agosto-diciembre-2015.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
