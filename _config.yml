@@ -1,6 +1,6 @@
 name: Tecnología en tus Manos
 favicon: null
-layout_spectrum: 0.969572
+layout_spectrum: 0
 typography_spectrum: 0.157072
 title: Tecnología en tus Manos
 cta:
@@ -22,10 +22,10 @@ color:
     - '#6080B0'
     - '#1040A0'
     - '#4868F0'
-  brandStrength: 0.67023
+  brandStrength: 0.25
   lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
