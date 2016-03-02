@@ -1,4 +1,19 @@
-analytics: {}
+name: Tecnología en tus Manos
+favicon: null
+layout_spectrum: 0.969572
+typography_spectrum: 0.157072
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#88B0C0'
@@ -7,12 +22,10 @@ color:
     - '#1040A0'
     - '#4868F0'
   brandStrength: 0.67023
-  lightness: 0.628289
-  rhythmicContrast: 0.708881
-  saturation: 0.60444
-cta: {}
-layout_spectrum: 0.969572
-name: Tecnología en tus Manos
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.157072
+  lightness: 0.5625
+  saturation: 0.3125
+  rhythmicContrast: 0.75
+purpose:
+  - name: null
+    item: null
+    url: null
